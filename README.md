@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, I'm Rodrigo S. Dantas
 
-<!--
-**Rodrig0ll/Rodrig0ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am studying HTML,CSS
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Rodrig0ll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrig0ll&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrig0ll&layout=compact&langs_count=7&theme=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
+
+  ##
+ 
+<div> 
+  <a href = "rodrigosouzadantas011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
