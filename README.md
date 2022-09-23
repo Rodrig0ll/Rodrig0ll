@@ -22,4 +22,5 @@
  
 <div> 
   <a href = "rodrigosouzadantas011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/rodrigogamer724"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </div>
