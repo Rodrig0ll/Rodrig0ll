@@ -1,22 +1,25 @@
-## Welcome to my GitHub, I'm Rodrigo S. Dantas 👋
+## Bem vindo ao meu GitHub, sou Rodrigo S. Dantas 👋
 
-### A little about myself:
+### Um pouco sobre mim:
 
-I am determined to learn more and more about programming
+Estou determinado a aprender cada vez mais sobre programação
 
-and I am confident that I will still evolve a lot in this career
+e tenho certeza que ainda vou evoluir muito nessa carreira
 
-I hope you like my works a lot
+Cursando desenvolvimento Full-Stack Programador BR
 
+Estou cursando o 1° ano do ensino médio
 
-|-📖 I am studying HTML,CSS-| |-🌎 Where am I from Brazil-|
+espero que gostem muito dos meus trabalhos
 
-|-🎤 at the moment I only know how to speak portuguese-| |-📃 I'm jobless at the moment-|
+|-📖 Estou estudando HTML, CSS-| |-🌎 Sou do Brasil-| |-🎤 só sei falar portugues-|
 
 <div align="center">
   <a href="https://github.com/Rodrig0ll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrig0ll&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrig0ll&layout=compact&langs_count=7&theme=swift"/>
+    
 </div>
 
 ##
