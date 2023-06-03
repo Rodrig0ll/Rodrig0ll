@@ -8,7 +8,7 @@ e tenho certeza que ainda vou evoluir muito nessa carreira
 
 Cursando desenvolvimento Full-Stack Programador BR
 
-Estou cursando o 1° ano do ensino médio
+Estou cursando o 2° ano do ensino médio
 
 espero que gostem muito dos meus trabalhos
 
